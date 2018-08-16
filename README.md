@@ -1,3 +1,3 @@
 # AFC-ng-SS-SN
 
-the code will available soon ! 
+the code will be available soon ! 
